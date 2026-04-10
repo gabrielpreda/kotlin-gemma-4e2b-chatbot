@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Generated files
+captures/
+outputs/
+
+# Mac
+.DS_Store
