@@ -16,7 +16,7 @@ No backend, no API — all inference happens locally.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/gabrielpreda/kotlin-gemma-4e2b-chatbot.git
 ```
 
 Open the project in Android Studio.
